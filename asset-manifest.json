@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rdxans/wonhost.git/static/css/main.2c9afb33.chunk.css",
+    "main.js": "/rdxans/wonhost.git/static/js/main.432a9e94.chunk.js",
+    "main.js.map": "/rdxans/wonhost.git/static/js/main.432a9e94.chunk.js.map",
+    "runtime-main.js": "/rdxans/wonhost.git/static/js/runtime-main.d4b98a4e.js",
+    "runtime-main.js.map": "/rdxans/wonhost.git/static/js/runtime-main.d4b98a4e.js.map",
+    "static/css/2.9a5322c9.chunk.css": "/rdxans/wonhost.git/static/css/2.9a5322c9.chunk.css",
+    "static/js/2.529a3034.chunk.js": "/rdxans/wonhost.git/static/js/2.529a3034.chunk.js",
+    "static/js/2.529a3034.chunk.js.map": "/rdxans/wonhost.git/static/js/2.529a3034.chunk.js.map",
+    "index.html": "/rdxans/wonhost.git/index.html",
+    "static/css/2.9a5322c9.chunk.css.map": "/rdxans/wonhost.git/static/css/2.9a5322c9.chunk.css.map",
+    "static/css/main.2c9afb33.chunk.css.map": "/rdxans/wonhost.git/static/css/main.2c9afb33.chunk.css.map",
+    "static/js/2.529a3034.chunk.js.LICENSE.txt": "/rdxans/wonhost.git/static/js/2.529a3034.chunk.js.LICENSE.txt",
+    "static/media/bg1-1.ae7d6893.png": "/rdxans/wonhost.git/static/media/bg1-1.ae7d6893.png",
+    "static/media/bg1-2.3e574ed2.png": "/rdxans/wonhost.git/static/media/bg1-2.3e574ed2.png",
+    "static/media/bg2-2.dbf78cf6.png": "/rdxans/wonhost.git/static/media/bg2-2.dbf78cf6.png",
+    "static/media/img1.b3648adf.jpg": "/rdxans/wonhost.git/static/media/img1.b3648adf.jpg",
+    "static/media/img3.ae9c9f03.jpg": "/rdxans/wonhost.git/static/media/img3.ae9c9f03.jpg",
+    "static/media/img5.3ee65851.png": "/rdxans/wonhost.git/static/media/img5.3ee65851.png",
+    "static/media/logo.76e20c38.png": "/rdxans/wonhost.git/static/media/logo.76e20c38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b98a4e.js",
+    "static/css/2.9a5322c9.chunk.css",
+    "static/js/2.529a3034.chunk.js",
+    "static/css/main.2c9afb33.chunk.css",
+    "static/js/main.432a9e94.chunk.js"
+  ]
+}
